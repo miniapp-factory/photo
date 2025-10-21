@@ -30,6 +30,10 @@ const pages = [
     ),
     href: "/",
   },
+  {
+    label: <span className="text-lg">Glitched Photos</span>,
+    href: "/photo-app",
+  },
 ];
 
 export function Header() {
